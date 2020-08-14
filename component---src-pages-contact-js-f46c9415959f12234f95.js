@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a);t.default=function(){return c.a.createElement("div",null,c.a.createElement("h1",null,"Contact"),c.a.createElement("p",null,"You can reach out to me via claire.chour@berkeley.edu. I'd love to chat!"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-f46c9415959f12234f95.js.map

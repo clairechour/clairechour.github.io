@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{Ofmp:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a);n.default=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Work Experience"),l.a.createElement("p",null,"Take a look at my resume! I am still developing this page. Sorry for the inconvenience!"))}}}]);
+//# sourceMappingURL=component---src-pages-work-js-71a5275d448e7479fecd.js.map
